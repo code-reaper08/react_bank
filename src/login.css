@@ -1,0 +1,11 @@
+.wrapper{
+  height:100vh;
+}
+.login {
+  width: 400px;            /* Sets the width of the form container to 400 pixels */
+  padding: 20px;           /* Adds 20 pixels of padding to all sides of the form container */
+  height: min-content;     /* Adjusts the height of the container based on its content */
+  border-radius: 5px;      /* Rounds the corners of the container with a 5px radius */
+  color: black;            /* Sets the text color to black */
+  background-color: lightblue; /* Sets the background color to light blue */
+}

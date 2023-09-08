@@ -1,19 +1,209 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "firstName": "YERRAMSETTI",
+      "lastName": "JASWANTH",
+      "dob": "wrfw",
+      "contactNumber": "+919491139969",
+      "email": "jaswanthyerramsetti@gmail.com",
+      "password": "Jaswanth",
+      "confirmPassword": "Jaswanth",
+      "address": "flat no. 305, vaibhav homes,near parama yerushalem church",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "firstName": "a",
+      "lastName": "b",
+      "dob": "c",
+      "contactNumber": "+d",
+      "email": "e@gmail.com",
+      "password": "f",
+      "confirmPassword": "g",
+      "address": "h",
+      "id": 1
+    },
+    {
+      "firstName": "e",
+      "lastName": "r",
+      "dob": "f",
+      "contactNumber": "+f",
+      "email": "f@gmail.com",
+      "password": "f",
+      "confirmPassword": "d",
+      "address": "d",
+      "id": 1
+    },
+    {
+      "firstName": "YERRAMSETTI",
+      "lastName": "JASWANTH",
+      "dob": "wrfw",
+      "contactNumber": "+919491139969",
+      "email": "abcd",
+      "password": "abcd",
+      "confirmPassword": "abcd",
+      "address": "flat no. 305, vaibhav homes,near parama yerushalem church",
+      "id": 2
+    },
+    {
+      "firstName": "ab",
+      "lastName": "cd",
+      "dob": "12/02/2001",
+      "contactNumber": "78861233",
+      "email": "abcd@xts",
+      "password": "1234",
+      "confirmPassword": "1324",
+      "address": "axdefv",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "contactNumber": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": "",
+      "address": "",
+      "id": 4
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "78861233",
+      "email": "abcd@xts",
+      "gender": "current",
+      "accountType": "savings",
+      "password": "kalam",
+      "confirmPassword": "1324",
+      "address": "chebrolu",
+      "id": 5
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "swe@gmail.com",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Kalam#123",
+      "confirmPassword": "Kalam#123",
+      "address": "11-40C, Goginenivari Street, chebrolu",
+      "id": 6
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "abcd@xts",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Abdul@2001",
+      "confirmPassword": "Abdul@2001",
+      "address": "chebrolu",
+      "id": 7
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Abdul@2001",
+      "confirmPassword": "Abdul@2001",
+      "address": "chebrolu",
+      "id": 8
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123302",
+      "email": "abcd@xts",
+      "gender": "male",
+      "accountType": "current",
+      "password": "abcD@1232",
+      "confirmPassword": "abcD@1232",
+      "address": "chebrolu",
+      "id": 9
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "cd",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "abcd@xts",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Kalam#123",
+      "confirmPassword": "Kalam#123",
+      "address": "chebrolu",
+      "accountNumber": "7dee68de-7954-4e8c-b684-72064e62d856",
+      "id": 10
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "cd",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "abcd@xts",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "abcd@xts12A",
+      "confirmPassword": "abcd@xts12A",
+      "address": "11-40C, Goginenivari Street, chebrolu",
+      "accountNumber": "0e47b9aa-dd33-4739-965d-1b168366572a",
+      "balance": 0,
+      "id": 11
+    },
+    {
+      "firstName": "Chandra",
+      "lastName": "surya prakash",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123302",
+      "email": "rxde@abc.com",
+      "gender": "male",
+      "accountType": "current",
+      "password": "Chandra@123",
+      "confirmPassword": "Chandra@123",
+      "address": "11-40C, Goginenivari Street, chebrolu",
+      "accountNumber": "ff6aed5c-34ea-444e-acf9-7dff69fe424a",
+      "balance": 0,
+      "id": 12
+    },
+    {
+      "firstName": "abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7886123301",
+      "email": "abdulkalamp588@gmail.com",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Kalam#123",
+      "confirmPassword": "Kalam#123",
+      "address": "chebrolu",
+      "accountNumber": "7ed6ac5c-a069-46f8-8cb1-780e4dbb5211",
+      "balance": 0,
+      "id": 13
+    },
+    {
+      "firstName": "Abdul",
+      "lastName": "kalam",
+      "dob": "2023-09-08",
+      "contactNumber": "7821446852",
+      "email": "abdulkalamp588@gmail.com",
+      "gender": "male",
+      "accountType": "savings",
+      "password": "Kalam123#",
+      "confirmPassword": "Kalam123#",
+      "address": "11-40C, Goginenivari Street, chebrolu",
+      "accountNumber": "6d6e1476-d15d-47ab-a9f2-7810f60ae721",
+      "balance": 0,
+      "id": 14
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
